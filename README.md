@@ -40,4 +40,3 @@ Follow these simple steps to run the application locally on your machine:
 
 5. **Generate QR Codes:**
    You can now use the website to generate scannable QR codes using any link or text. To stop the application and exit, press `Ctrl + C` inside your terminal window.
-Use code with caution.
